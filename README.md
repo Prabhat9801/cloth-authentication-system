@@ -31,7 +31,7 @@ A Java-based system for authenticating cloth items using computer vision and fea
 
 1. Clone the repository:
 ```powershell
-git clone (https://github.com/Prabhat9801/cloth-authentication-system)
+git clone https://github.com/Prabhat9801/cloth-authentication-system
 cd cloth-authentication-system
 ```
 
